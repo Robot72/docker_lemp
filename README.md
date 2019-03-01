@@ -22,3 +22,8 @@ Step 2. Start docker:
 
 Enjoy with docker :)
 
+## How to manage different containers
+
+Open terminal within the container:
+`docker exec -i -t container_id /bin/bash`
+
