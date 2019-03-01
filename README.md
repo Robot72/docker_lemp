@@ -1,6 +1,6 @@
-# Intlall LEMP using Docker
+# Intslall LEMP using Docker
 
-You had to install Docker and Docker-Compose
+You had to install Docker and Docker-Compose then you can follow the guide below.
 
 ## Project structure
 
@@ -19,4 +19,6 @@ Step 1. Input the code into terminal:
 Step 2. Start docker: 
 
 `docker-compose up -d`
+
+Enjoy with docker :)
 
