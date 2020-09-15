@@ -45,3 +45,5 @@ services:
       PMA_HOST: mysql
       MYSQL_USERNAME: root
       MYSQL_ROOT_PASSWORD: secret
+    volumes:
+      - ./docker/php/php.ini:/usr/local/etc/php/php.ini
